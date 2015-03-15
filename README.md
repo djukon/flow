@@ -1,6 +1,7 @@
 # flow
 Flow - a twitch puzzle game based on flow networks
 
-Copyright Pedro Palhoto (djukon), 2015
+Copyright (c) 2015      Pedro Palhoto (djukon)
+                          - original version
 
-GPLv3 for code, CC BY-SA (4.0 International) for the rest.
+GNU General Public License version 3 license for programming code, Creative Commons Attribution Share-Alike 4.0 International license for the rest.
